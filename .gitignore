@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+Coffee_reward_database.db
+.ipynb_checkpoints/
