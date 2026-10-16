@@ -3,6 +3,9 @@
 ## Project Overview
 
 **Customer Behaviour & Commercial Performance Analytics** is an interactive business intelligence and customer analytics project designed to analyze customer behaviour, sales performance, transaction patterns, marketing offers, and customer journeys.
+### Dashboard
+<img width="1900" height="898" alt="consumer dashboard" src="https://github.com/user-attachments/assets/e4ed18a3-8756-4233-8843-a3db8ba734e5" />
+
 
 The project follows a structured analytics workflow:
 
